@@ -4,8 +4,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.```diff - text in red ``
 
 ```diff
 - text in red
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 + text in green
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ! text in orange
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 # text in gray
 @@ text in purple (and bold)@@
 ```

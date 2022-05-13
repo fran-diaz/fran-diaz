@@ -2,6 +2,14 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu nibh nec ex varius porta at sit amet lorem. Duis sodales interdum massa, in hendrerit urna. Phasellus non euismod massa, sed rutrum nisi. Phasellus elementum urna sapien, nec porttitor justo lacinia placerat. Sed convallis malesuada aliquet. Sed eu eros vel lorem ultricies feugiat. Nam eu odio a nulla auctor vehicula.
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 <!--
 **fran-diaz/fran-diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
